@@ -1,0 +1,10 @@
+C:\Users\vinic_000\source\repos\Calculo2Numeros\Calculo2Numeros\bin\Debug\Calculo2Numeros.exe.config
+C:\Users\vinic_000\source\repos\Calculo2Numeros\Calculo2Numeros\bin\Debug\Calculo2Numeros.exe
+C:\Users\vinic_000\source\repos\Calculo2Numeros\Calculo2Numeros\bin\Debug\Calculo2Numeros.pdb
+C:\Users\vinic_000\source\repos\Calculo2Numeros\Calculo2Numeros\obj\Debug\Calculo2Numeros.csprojAssemblyReference.cache
+C:\Users\vinic_000\source\repos\Calculo2Numeros\Calculo2Numeros\obj\Debug\Calculo2Numeros.Properties.Resources.resources
+C:\Users\vinic_000\source\repos\Calculo2Numeros\Calculo2Numeros\obj\Debug\Calculo2Numeros.csproj.GenerateResource.cache
+C:\Users\vinic_000\source\repos\Calculo2Numeros\Calculo2Numeros\obj\Debug\Calculo2Numeros.csproj.CoreCompileInputs.cache
+C:\Users\vinic_000\source\repos\Calculo2Numeros\Calculo2Numeros\obj\Debug\Calculo2Numeros.exe
+C:\Users\vinic_000\source\repos\Calculo2Numeros\Calculo2Numeros\obj\Debug\Calculo2Numeros.pdb
+C:\Users\vinic_000\source\repos\Calculo2Numeros\Calculo2Numeros\obj\Debug\Calculo2Numeros.FRMPrincipal.resources
